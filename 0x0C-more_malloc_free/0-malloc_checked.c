@@ -4,7 +4,7 @@
 /**
  * *malloc_checked - allocates memory using malloc
  * @b: number of bytes to allocate
- * Auth: Mouhcine Ezzaidi
+ * Auth: Naoufal Benboud
  *
  * Return: a pointer to the allocated memory
  */
